@@ -15,11 +15,11 @@
               </Icon>
             </IconStyle>
             <LineStyle id="khLineStyle765">
-              <color>c700ffff</color>
+              <color>5078A000</color>
 			  <width>7</width>
             </LineStyle>
             <PolyStyle id="khPolyStyle766">
-              <color>a800ff00</color>
+              <color>5078A000</color>
 			  <fill>1</fill> 			  
               <colorMode>random</colorMode>
             </PolyStyle>
