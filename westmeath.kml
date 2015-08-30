@@ -50,11 +50,11 @@
                   </Icon>
                 </IconStyle>
                 <LineStyle>
-                  <color>c7ffff55</color>
+                  <color>5078A000</color>
 			      <width>7</width>				  
                 </LineStyle>
                 <PolyStyle>
-                  <color>a800ff00</color>
+                  <color>5078A000</color>
 				  <fill>1</fill>
                   <colorMode>random</colorMode>
                 </PolyStyle>
