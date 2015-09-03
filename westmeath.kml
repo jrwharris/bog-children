@@ -55,8 +55,6 @@
                 </LineStyle>
                 <PolyStyle>
                   <color>6478E600</color>
-				  <fill>1</fill>
-                  <colorMode>random</colorMode>
                 </PolyStyle>
               </Style>
               <LineString>
