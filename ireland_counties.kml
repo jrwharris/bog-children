@@ -1041,7 +1041,8 @@
 				  <width>3</width>
                 </LineStyle>
                 <PolyStyle>
-                  <color>6478E600</color>
+                  <color>5078FF00</color>
+	          <fill>0</fill> 			  
                   <colorMode>random</colorMode>
                 </PolyStyle>
               </Style>
